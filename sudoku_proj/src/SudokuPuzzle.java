@@ -1,4 +1,4 @@
-/**Doug Bogle, 627045
+/**Doug
  *This class represents a SudokuPuzzle. It takes a file containing a properly formatted SudokuPuzzle (0's in empty
  * spaces) and converts it to a two-dimensional array of integers and stores this as its sole attribute. It contains
  * an equals method to compare it to other SudokuPuzzles, this is mainly so that we can compare it to its solution
@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class SudokuPuzzle {
     /**
-     * SHOULD THIS BE PUBLIC?
+     * two dimensional representation of sudoku board
      */
     private int[][] board;
 
