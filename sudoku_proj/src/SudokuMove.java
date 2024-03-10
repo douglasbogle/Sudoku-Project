@@ -1,4 +1,4 @@
-/**Doug Bogle, 627045
+/**Doug
  * This class represents a SudokuMove. It has attributes containing the move's x, y, and board value. It contains
  * the appropriate getters to access these values.
  */
