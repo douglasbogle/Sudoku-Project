@@ -1,4 +1,4 @@
-/**Doug Bogle, 627045
+/**Doug
  *The SudokuSolver class takes a SudokuPuzzle and solves it, using an ArrayDequeue (essentially a stack) to store
  * every move that is made so that the solve method and nextMove method can backtrack through the puzzle and fix
  * incorrect moves. It essentially repeats this process, brute-forcing the solution to the SudokuPuzzle.
