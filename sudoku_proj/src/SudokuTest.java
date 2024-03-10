@@ -1,4 +1,4 @@
-/**Doug Bogle, 627045
+/**Doug
  *The point of this project is to solve any given Sudoku puzzle using a backtracking algorithm. This runner class
  * tries to ask a user for a sudoku file input (and optionally a solution file), and catches any errors with
  * retrieving the file. It then creates a SudokuPuzzle object. The SudokuPuzzle object is essentially the representation
